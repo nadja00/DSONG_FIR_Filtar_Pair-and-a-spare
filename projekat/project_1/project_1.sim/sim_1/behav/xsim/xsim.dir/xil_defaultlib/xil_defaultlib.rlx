@@ -1,0 +1,14 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/bram.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/top.vhd,,,bram,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/fir_param.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/two_fir_with_compare.vhd,,,fir_param,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/mac.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/fir_param.vhd,,,mac,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/replication.vhd,1787604816,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/top.vhd,,,replication,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/top.vhd,1787612914,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/tb/top_tb.vhd,,,top,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/two_fir_with_compare.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/replication.vhd,,,two_fir_with_compare,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/txt_util.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/tb/top_tb.vhd,,,txt_util,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/util_pkg.vhd,1787431203,vhdl,C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/fir_param.vhd;C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/replication.vhd;C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/top.vhd;C:/Users/Korisnik/Desktop/DSONG/projekat/hdl/two_fir_with_compare.vhd;C:/Users/Korisnik/Desktop/DSONG/projekat/tb/top_tb.vhd,,,util_pkg,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/tb/top_tb.vhd,1787613725,vhdl,,,,tb_top,,,,,,,,
+C:/Users/Korisnik/Desktop/DSONG/projekat/tb/two_fir_with_compare_tb.vhd,1787607061,vhdl,,,,tb_two_fir,,,,,,,,

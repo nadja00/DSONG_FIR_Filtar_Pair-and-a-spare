@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_top" />
+            <top_module name="txt_util" />
+            <top_module name="util_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="110,992.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="111,340.001 ns"></ZoomEndTime>
+      <Cursor1Time time="111,110.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="312"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="39" />
+   <wvobject fp_name="/tb_top/clk_i_s" type="logic">
+      <obj_property name="ElementShortName">clk_i_s</obj_property>
+      <obj_property name="ObjectShortName">clk_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/data_i_s" type="array">
+      <obj_property name="ElementShortName">data_i_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_i_s[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/data_o_s" type="array">
+      <obj_property name="ElementShortName">data_o_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o_s[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/coef_addr_i_s" type="array">
+      <obj_property name="ElementShortName">coef_addr_i_s[2:0]</obj_property>
+      <obj_property name="ObjectShortName">coef_addr_i_s[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/coef_i_s" type="array">
+      <obj_property name="ElementShortName">coef_i_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">coef_i_s[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/we_i_s" type="logic">
+      <obj_property name="ElementShortName">we_i_s</obj_property>
+      <obj_property name="ObjectShortName">we_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/en_i_s" type="logic">
+      <obj_property name="ElementShortName">en_i_s</obj_property>
+      <obj_property name="ObjectShortName">en_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/rst_i_s" type="logic">
+      <obj_property name="ElementShortName">rst_i_s</obj_property>
+      <obj_property name="ObjectShortName">rst_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/start_check" type="logic">
+      <obj_property name="ElementShortName">start_check</obj_property>
+      <obj_property name="ObjectShortName">start_check</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/addr_read_i_s" type="array">
+      <obj_property name="ElementShortName">addr_read_i_s[11:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_read_i_s[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/addr_write_i_s" type="array">
+      <obj_property name="ElementShortName">addr_write_i_s[11:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_write_i_s[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/ready_i_s" type="logic">
+      <obj_property name="ElementShortName">ready_i_s</obj_property>
+      <obj_property name="ObjectShortName">ready_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/iterration" type="other">
+      <obj_property name="ElementShortName">iterration</obj_property>
+      <obj_property name="ObjectShortName">iterration</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/RAM_WIDTH" type="other">
+      <obj_property name="ElementShortName">RAM_WIDTH</obj_property>
+      <obj_property name="ObjectShortName">RAM_WIDTH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/RAM_DEPTH" type="other">
+      <obj_property name="ElementShortName">RAM_DEPTH</obj_property>
+      <obj_property name="ObjectShortName">RAM_DEPTH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/ADDR_SIZE" type="other">
+      <obj_property name="ElementShortName">ADDR_SIZE</obj_property>
+      <obj_property name="ObjectShortName">ADDR_SIZE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/fir_ord" type="other">
+      <obj_property name="ElementShortName">fir_ord</obj_property>
+      <obj_property name="ObjectShortName">fir_ord</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/in_out_data_width" type="other">
+      <obj_property name="ElementShortName">in_out_data_width</obj_property>
+      <obj_property name="ObjectShortName">in_out_data_width</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/number_of_replication" type="other">
+      <obj_property name="ElementShortName">number_of_replication</obj_property>
+      <obj_property name="ObjectShortName">number_of_replication</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/period" type="other">
+      <obj_property name="ElementShortName">period</obj_property>
+      <obj_property name="ObjectShortName">period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/start_i_s" type="logic">
+      <obj_property name="ElementShortName">start_i_s</obj_property>
+      <obj_property name="ObjectShortName">start_i_s</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/clk_i_s" type="logic">
+      <obj_property name="ElementShortName">clk_i_s</obj_property>
+      <obj_property name="ObjectShortName">clk_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/address_input_bram" type="array">
+      <obj_property name="ElementShortName">address_input_bram[11:0]</obj_property>
+      <obj_property name="ObjectShortName">address_input_bram[11:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/data_to_output_bram" type="array">
+      <obj_property name="ElementShortName">data_to_output_bram[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_to_output_bram[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/address_output_bram" type="array">
+      <obj_property name="ElementShortName">address_output_bram[11:0]</obj_property>
+      <obj_property name="ObjectShortName">address_output_bram[11:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/data_o_s" type="array">
+      <obj_property name="ElementShortName">data_o_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o_s[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/sel_data_1" type="array">
+      <obj_property name="ElementShortName">sel_data_1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">sel_data_1[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/sel_data_2" type="array">
+      <obj_property name="ElementShortName">sel_data_2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">sel_data_2[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/error_from_comparator" type="logic">
+      <obj_property name="ElementShortName">error_from_comparator</obj_property>
+      <obj_property name="ObjectShortName">error_from_comparator</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/counter" type="array">
+      <obj_property name="ElementShortName">counter[2:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/checker" type="array">
+      <obj_property name="ElementShortName">checker[2:0]</obj_property>
+      <obj_property name="ObjectShortName">checker[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/fir_ready_s" type="logic">
+      <obj_property name="ElementShortName">fir_ready_s</obj_property>
+      <obj_property name="ObjectShortName">fir_ready_s</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/data_outt" type="array">
+      <obj_property name="ElementShortName">data_outt[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_outt[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/data_from_mux_1" type="array">
+      <obj_property name="ElementShortName">data_from_mux_1[24:0]</obj_property>
+      <obj_property name="ObjectShortName">data_from_mux_1[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/data_from_mux_2" type="array">
+      <obj_property name="ElementShortName">data_from_mux_2[24:0]</obj_property>
+      <obj_property name="ObjectShortName">data_from_mux_2[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/\replication_of_fir(0)\/replication/first_data_o_s" type="array">
+      <obj_property name="ElementShortName">first_data_o_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">first_data_o_s[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/\replication_of_fir(0)\/replication/second_data_o_s" type="array">
+      <obj_property name="ElementShortName">second_data_o_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">second_data_o_s[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/\replication_of_fir(0)\/replication/error_s" type="logic">
+      <obj_property name="ElementShortName">error_s</obj_property>
+      <obj_property name="ObjectShortName">error_s</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut_fir_filter/pair_and_spare_FIR/\replication_of_fir(0)\/replication/data_out_s" type="array">
+      <obj_property name="ElementShortName">data_out_s[23:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out_s[23:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>
